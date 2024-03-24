@@ -2,9 +2,9 @@
 
 This reading club mainly consists of junior graduate students in KITS. In 2024 spring, we'll discuss various topics of ETH, Chaos and nonequilibrium.
 
-We plan to have a general introduction first, and follow up with discussions on several topics that are currently concerned by the community.
+We plan to 
 
-
+**DON'T WASTE ANY TIME ON SUPERFICIALITIES, BUT BE DOWN-TO-EARTH.**
 
 
 ## Goal
