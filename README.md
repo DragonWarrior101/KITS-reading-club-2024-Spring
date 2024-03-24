@@ -28,7 +28,7 @@ We plan to have a general introduction first, and follow up with discussions on 
   3. vN algebra in quantum gravity - [Gravity and the crossed product](https://arxiv.org/abs/2112.12828) 
   4. applications in generalized entanglement entropy - [Large *N* algebras and generalized entropy](https://arxiv.org/abs/2209.10454) 
 
-  Useful resources: [Mark Srednicki - Quantum chaos and eigenstate thermalization]([https://space.bilibili.com/1881237721/channel/collectiondetail?sid=1184790](https://m.youtube.com/watch?v=C4GREsvpzA0&pp=ygUuZWlnZW5zdGF0ZSB0aGVybWFsaXphdGlvbiBoeXBvdGhlc2lzIHNyZWRuaWNraQ%3D%3D)) 
+  Useful resources: [Mark Srednicki - Quantum chaos and eigenstate thermalization](https://m.youtube.com/watch?v=C4GREsvpzA0&pp=ygUuZWlnZW5zdGF0ZSB0aGVybWFsaXphdGlvbiBoeXBvdGhlc2lzIHNyZWRuaWNraQ%3D%3D)
 
 
 
