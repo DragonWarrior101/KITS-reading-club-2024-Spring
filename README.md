@@ -4,7 +4,6 @@ This reading club mainly consists of junior graduate students in KITS. In 2024 s
 
 We plan to 
 
-**DON'T WASTE ANY TIME ON SUPERFICIALITIES, BUT BE DOWN-TO-EARTH.**
 
 
 ## Goal
