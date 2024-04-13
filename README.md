@@ -36,7 +36,7 @@ Every week on Saturday at 10am BJT.
 
 - Room 401, Building 7.
 
-- OR room 302 if we forget to make an appointment ahead.
+- OR online if we forget to make an appointment ahead.
 
   
 
@@ -44,7 +44,7 @@ Every week on Saturday at 10am BJT.
 ## Schedule of speakers
 
 - 2023-03-30: [1509.06411](https://arxiv.org/abs/1509.06411) Section 1 & 2 Chen Bai [柏辰]
-- 2023-04-06: [1509.06411](https://arxiv.org/abs/1509.06411) Section 2 TBA [托比昂]
+- 2023-04-06: [1509.06411](https://arxiv.org/abs/1509.06411) Section 1 & 2 Chen Bai [柏辰]
 - 2023-04-13: [1509.06411](https://arxiv.org/abs/1509.06411) Section 3 TBA [托比昂]
 - 2023-04-20: [1509.06411](https://arxiv.org/abs/1509.06411) Section 4 TBA [托比昂]
 
