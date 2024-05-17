@@ -44,11 +44,13 @@ Every week on Saturday at 10am BJT.
 
 ## Schedule of speakers
 
-- 2023-03-30: [1509.06411](https://arxiv.org/abs/1509.06411) Section 1 & 2 Chen Bai [柏辰]
-- 2023-04-06: [1509.06411](https://arxiv.org/abs/1509.06411) Section 1 & 2 Chen Bai [柏辰]
-- 2023-04-13: Random Measure Yixin Ma [马奕欣]
-- 2023-04-20: [1509.06411](https://arxiv.org/abs/1509.06411) Section 3 TBA [托比昂]
-- 2023-04-27: [1509.06411](https://arxiv.org/abs/1509.06411) Section 4 TBA [托比昂]
+- 2024-03-30: [1509.06411](https://arxiv.org/abs/1509.06411) Section 1 & 2 Chen Bai [柏辰]
+- 2024-04-06: [1509.06411](https://arxiv.org/abs/1509.06411) Section 1 & 2 Chen Bai [柏辰]
+- 2024-04-13: Random Measure Yixin Ma [马奕欣]
+- 2024-04-20: Random Measure Yixin Ma [马奕欣]
+- 2024-05-18: [1509.06411](https://arxiv.org/abs/1509.06411) Section 3 TBA [王淼]
+- 2024-05-25: Introduction to stochastic process [黎晏源]
+- 2024-06-1: [1509.06411](https://arxiv.org/abs/1509.06411) Section 4 TBA [托比昂]
 
 
 ## Suggest papers
